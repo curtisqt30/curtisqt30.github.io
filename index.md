@@ -4,7 +4,7 @@ This is my home page! My name is Curtis Quan-Tran I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/curtisqt30.
+My GitHub page is https://github.com/curtisqt30.
 
 ### CPSC 120
 
